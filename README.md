@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## NPM Commands to run the app
 
-npm run dev - To run the app in dev mode
-npm run prod - To run the app in production mode
+`npm run dev` - To run the app in dev mode
+
+`npm run prod` - To run the app in production mode
 
